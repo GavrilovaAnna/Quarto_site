@@ -1,0 +1,12 @@
+---
+title: "Обо мне"
+image: profile1.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/GavrilovaAnna
+---
+
+Я Гаврилова Анна Аркадьевна, студентка 3 курса РТУ МИРЭА, учебная группа БИСО-02-20
